@@ -2,4 +2,4 @@
 Fork me!
 
 # About me
-Add a quick description of yourself down here. No using the Git website! You have to do it from within PyCharm.
+I am Zane Greenholt. I am 18 years old from Bear, Delaware. I went to Japan last summer.
